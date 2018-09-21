@@ -1,4 +1,4 @@
-Guano for Craft*
+Guano for Craft
 ===========
 
 Guano is a plugin for Craft that adds a few, small GUI improvements to the control panel. At the moment, these improvements are:
@@ -18,6 +18,9 @@ Use at your own risk. Hopefully these things will make their way into Craft itse
 
 Changelog
 ---
+### Version 0.2.1 (herrajon)
+ - Fixed rigid leftcolumn in Live Preview
+
 ### Version 0.2
  - Updated to work with Craft 2.5.
 

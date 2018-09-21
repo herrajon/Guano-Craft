@@ -14,7 +14,8 @@
 #tabs .tab.error { background: #da5a47 !important; color: #fff !important; margin-left: 1px; margin-right: 1px;}
 #tabs .tab.sel.error { background: #E3988D !important;}
 #login-form {background-position: center top !important; }
-.lp-editor-container {overflow: hidden; }
+/*.lp-editor-container {overflow: hidden; }*/
+
 .lp-editor {padding-top: 80px; width: inherit; }
 .lp-editor header { position: fixed; left: 0; top: 0; width: inherit; margin: 0; z-index: 10; -webkit-transform: translateY(-100%); -ms-transform: translateY(-100%); transform: translateY(-100%); -webkit-transition: -webkit-transform .3s .5s ease; transition: transform .3s .5s ease; background-color: #f5f6f7;}
 .noscroll .lp-editor {position: relative; }
